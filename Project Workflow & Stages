@@ -5,3 +5,9 @@
    - Applied `StandardScaler` to normalize feature distributions for optimal Neural Network and SVM performance[cite: 1].
    - Performed Exploratory Data Analysis (EDA) using correlation heatmaps.
 
+
+2. **Stage 2: Data Splitting**
+   - Partitioned the dataset using stratified sampling to maintain class balance:
+     - **Training Set (70%)**[cite: 1]
+     - **Validation Set (15%)**[cite: 1]
+     - **Test Set (15%)**[cite: 1]
