@@ -59,6 +59,5 @@ The goal of this project is to apply supervised machine learning techniques to c
 ## 🛠️ Setup & Execution Instructions
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/abalharbi99/DS471-Breast-Cancer-ML-Project.git](https://github.com/abalharbi99/DS471-Breast-Cancer-ML-Project.git)
-   cd DS471-Breast-Cancer-ML-Project
+  
+   git clone https://github.com/abalharbi99/DS471-Breast-Cancer-ML-Project.git
