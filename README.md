@@ -9,6 +9,11 @@ The goal of this project is to apply supervised machine learning techniques to c
 
 ---
 
+### 👥 Team Members
+- **Abdulrhman Salem Almohammadi** (Team Leader) — ID: `S210044670`
+- **Mohammed Khalid Almadhi** — ID: `S230019632`
+- **Raid Abdulrahman Alotaibi** — ID: `S230003591`
+
 ## 📂 Repository Structure
 - `DS471_Breast_Cancer_Project.ipynb`: Complete Google Colab / Jupyter Notebook covering data preparation, EDA, feature scaling, model training, and evaluation.
 - `DS471_Project_Report.pdf`: Final academic project report formatted according to course requirements.
