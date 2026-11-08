@@ -1,7 +1,0 @@
-## 🚀 Project Workflow & Stages
-
-1. **Stage 1: Data Cleaning, Preparation, and Exploration**
-   - Analyzed 569 instances and 30 numerical input features with zero missing values.
-   - Applied `StandardScaler` to normalize feature distributions for optimal Neural Network and SVM performance[cite: 1].
-   - Performed Exploratory Data Analysis (EDA) using correlation heatmaps.
-
