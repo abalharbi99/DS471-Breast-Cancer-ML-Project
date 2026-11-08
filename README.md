@@ -61,3 +61,5 @@ The goal of this project is to apply supervised machine learning techniques to c
 1. **Clone the repository:**
   
    git clone https://github.com/abalharbi99/DS471-Breast-Cancer-ML-Project.git
+
+   # New fix on the code
